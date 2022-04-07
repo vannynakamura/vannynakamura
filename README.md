@@ -31,7 +31,6 @@
 </div>
   
 <div> 
-  <a href="https://tenor.com/view/business-dog-typing-dog-cute-pet-busy-working-gif-16434065" target="_blank"><img align="center" src="https://tenor.com/embed.js" alt="dephraiim" height="20" width="20" /></a>
-    <a href="https://tenor.com/view/business-dog-typing-dog-cute-pet-busy-working-gif-16434065">Business Dog Typing Dog GIF</a>from <a href="https://tenor.com/search/business+dog-gifs">Business Dog GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <a href=""https://tenor.com/search/business+dog-gifs" target="_blank"><img align="center" src="https://tenor.com/embed.js" alt="dephraiim" height="20" width="20" /></a>
 
 </div>
