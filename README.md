@@ -13,7 +13,7 @@
   <img align="center" alt="Vanny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vanny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vanny-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vanny-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/961412281189670932/961412281189670935/961420594627358750">
+  <img align="right" alt="Vanny-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/961412281189670935/961420594212114443/download20220403212114.png">
 </div>
   
   ##
