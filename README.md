@@ -29,8 +29,3 @@
   ![Snake animation](https://github.com/vannynakamura/vannynakamura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-  
-<div> 
-  <a href="https://tenor.com/embed.js" target="_blank"><img align="center" src="https://tenor.com/search/business+dog-gifs" alt="dephraiim" height="20" width="20" /></a>
-
-</div>
