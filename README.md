@@ -29,3 +29,7 @@
   ![Snake animation](https://github.com/vannynakamura/vannynakamura/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+<div>
+    <img align="right" alt="Vanny-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/961412281189670935/962893681600380928/vanchar.png">  
+</div>
