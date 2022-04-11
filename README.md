@@ -31,5 +31,5 @@
 </div>
   
 <div>
-    <img align="right" alt="Vanny-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/961412281189670935/962894029534679040/eu2.png?width=195&height=656">  
+    <img align="left" alt="Vanny-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/961412281189670935/962894029534679040/eu2.png?width=195&height=656">  
 </div>
